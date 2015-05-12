@@ -7,7 +7,7 @@
     "email": "abhishekoza@gmail.com"
   },
   "bin": {
-    "standard": "./bin/cmd.js"
+    "vstar-standard": "./bin/cmd.js"
   },
   "bugs": {
     "url": "https://github.com/abhishekoza/standard/issues"
