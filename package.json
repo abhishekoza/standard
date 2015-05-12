@@ -1,17 +1,16 @@
 {
-  "name": "standard",
+  "name": "vstar-standard",
   "description": "JavaScript Standard Style",
   "version": "3.8.0",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
+    "name": "Abhishek Oza",
+    "email": "abhishekoza@gmail.com"
   },
   "bin": {
     "standard": "./bin/cmd.js"
   },
   "bugs": {
-    "url": "https://github.com/feross/standard/issues"
+    "url": "https://github.com/abhishekoza/standard/issues"
   },
   "dependencies": {
     "dezalgo": "^1.0.1",
@@ -63,7 +62,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/standard.git"
+    "url": "git://github.com/abhishekoza/standard.git"
   },
   "scripts": {
     "test": "node ./bin/cmd.js && tape test/*.js"
