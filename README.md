@@ -3,8 +3,8 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/feross/standard.svg?style=flat
-[travis-url]: https://travis-ci.org/feross/standard
+[travis-image]: https://img.shields.io/travis/abhishekoza/standard.svg?style=flat
+[travis-url]: https://travis-ci.org/abhishekoza/standard
 [npm-image]: https://img.shields.io/npm/v/standard.svg?style=flat
 [npm-url]: https://npmjs.org/package/standard
 [downloads-image]: https://img.shields.io/npm/dm/standard.svg?style=flat
@@ -56,27 +56,21 @@ npm install standard
 [5]: https://developer.mozilla.org/en-US/docs/Web/API/Window.self
 [6]: RULES.md#javascript-standard-style
 
-To get a better idea, take a look at
-[a sample file](https://github.com/feross/bittorrent-dht/blob/master/client.js) written
-in JavaScript Standard Style, or check out some of
-[the repositories](https://github.com/feross/standard/blob/master/test/clone.js) that use
-`standard`.
-
 ## Badge
 
 Use this in one of your projects? Include one of these badges in your readme to
 let people know that your code is using the standard style.
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/abhishekoza/standard/master/badge.svg)](https://github.com/abhishekoza/standard)
 
 ```markdown
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/abhishekoza/standard/master/badge.svg)](https://github.com/abhishekoza/standard)
 ```
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/abhishekoza/standard)
 
 ```markdown
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/abhishekoza/standard)
 ```
 
 ## Usage
@@ -173,7 +167,7 @@ over defending their own opinions.
 ### But this isn't a real web standard!
 
 Of course it's not! The style laid out here is not affiliated with any official web
-standards groups, which is why this repo is called `feross/standard` and not
+standards groups, which is why this repo is called `abhishekoza/standard` and not
 `ECMA/standard`.
 
 The word "standard" has more meanings than just "web standard" :-) For example:
@@ -296,4 +290,4 @@ PreCommit:
 
 ## License
 
-MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
+MIT. Copyright (c) [Abhishek Oza]
