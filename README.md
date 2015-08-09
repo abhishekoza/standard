@@ -290,4 +290,4 @@ PreCommit:
 
 ## License
 
-MIT. Copyright (c) [Abhishek Oza]
+MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
